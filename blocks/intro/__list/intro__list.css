@@ -1,0 +1,10 @@
+@import url("./_unbold/intro__list_unbold.css");
+
+.intro__list {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
