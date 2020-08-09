@@ -16,7 +16,7 @@
   }
 }
 
-@media screen and (max-width: 319px) {
+@media screen and (max-width: 320px) {
   .footer__list_type {
     margin-bottom: 32px;
   }
