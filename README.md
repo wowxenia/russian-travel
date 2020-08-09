@@ -7,7 +7,6 @@
 
 ---
 
-
 ## 📝 Cодержание
 
 - [Описание](#description)
@@ -24,5 +23,9 @@
 HTML, CSS: grid, flex
 ```
 
+-----------
 
+```
+Github Pages: https://wowxenia.github.io/russian-travel/
+```
 
