@@ -1,15 +1,16 @@
-@import url("./_language/header__lang-link_ru.css");
-@import url("./_language/header__lang-link_en.css");
+@import url("./_selected/header__lang-link_selected.css");
 
 .header__lang-link {
   font-size: 24px;
   line-height: 28px;
   color: #FFFFFF;
   margin-left: 18px;
+  text-decoration: none;
 }
 
-.header__lang-link:hover {
+.header__lang-link:hover {	
   opacity: 0.8;
+  transition: 0.3s ease-out;
 }
 
 @media screen and (max-width: 320px) {

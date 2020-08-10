@@ -8,23 +8,7 @@
   padding: 0;
 }
 
-@media screen and (max-width: 767px) and (min-width: 424px) {
-  .lead__title {
-    font-size: 40px;
-    line-height: 44px;
-    margin: 0 auto 16px;
-  }
-}
-
-@media screen and (max-width: 423px) and (min-width: 321px) {
-  .lead__title {
-    font-size: 40px;
-    line-height: 44px;
-    margin: 0 auto 16px;
-  }
-}
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .lead__title {
     font-size: 40px;
     line-height: 44px;

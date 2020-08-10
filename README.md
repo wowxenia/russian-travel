@@ -1,6 +1,5 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/U3vPzfn.png" alt="Project logo"></a>
+ <p align="center">  <!-- Тут я хотела раположить картинку по центру. Не совсем поняла почему лишний? Ссылку удалила. :) -->
+ <img width=200px height=200px src="https://i.imgur.com/U3vPzfn.png" alt="Project logo">
 </p>
 
 <h3 align="center">Путешествия по России</h3>

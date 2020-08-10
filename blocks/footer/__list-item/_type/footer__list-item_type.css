@@ -1,0 +1,18 @@
+@media screen and (max-width: 767px) and (min-width: 425px) {
+  .footer__list-item_type {    
+    margin-bottom: 28px;
+  }
+  .footer__list-item_type:last-child {
+    margin-bottom: 34px;
+  }
+}
+
+@media screen and (max-width: 424px){
+  .footer__list-item_type {   
+    display: inline-block; 
+    margin-bottom: 32px;
+  }
+  .footer__list-item_type:last-child {
+    margin-bottom: 48px;
+  }
+}
